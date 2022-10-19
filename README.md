@@ -36,7 +36,7 @@ Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento
 <div>
   <a href="https://github.com/thiagogcorreab">
   <img  height="125em" src="https://github-readme-stats.vercel.app/api?username=thiagogcorreab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreab&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreab&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
