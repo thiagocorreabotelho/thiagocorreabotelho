@@ -2,6 +2,7 @@
 <h1 align="left">Olá 🤟🏻, Thiago Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
+
 Profissional com 5 anos de experiência em TI ( 3 com suporte nível (1 e 2) e no desenvolvimento 2 anos. ), entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ).
 Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento de processos e documentações, implantações de software, bem como suporte interno e externo ). Liderando a equipe completa de desenvolvimento com C#, ASP.NET CORE, DDD, SQL Server e gerenciamento no devops.
 
@@ -34,13 +35,22 @@ Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento
 -->
 
 <div>
-  <a href="https://github.com/thiagogcorreab">
-  <img  height="125em" src="https://github-readme-stats.vercel.app/api?username=thiagogcorreab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogcorreab&layout=compact&langs_count=16&theme=dracula"/>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreabotelho&theme=tokyonight" alt="thiagocorreabotelho" /></p>
 </div>
 
 
-## Contato
+## Contato 
+
+  <img
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+  
+  
 
 <p align="left" style="background:yellow">
 
@@ -53,6 +63,8 @@ Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento
 <a href="https://www.instagram.com/thiagogilsoncorrea/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-thiagogilsoncorrea-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  
+  
 </p>
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=thiagocorreadev&layout=wide&show_reply=off&show_retweet=off" />
