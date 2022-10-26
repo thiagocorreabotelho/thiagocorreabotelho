@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thiagocorreabotelho/bf6f88bda139b65fe285d9871eecc908/raw/b5dedb3a8b78e6a05ef44062ba790c5219d385c4/cardperfil.svg"/>
 <h1 align="left">Olá 🤟🏻, Thiago Corrêa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
+
 
 
 Profissional com 5 anos de experiência em TI ( 3 com suporte nível (1 e 2) e no desenvolvimento 2 anos. ), entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ).
