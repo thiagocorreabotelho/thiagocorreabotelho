@@ -35,9 +35,9 @@ Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento
 -->
 
 <div>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" /></p>
+ <p>&nbsp;<img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreabotelho&theme=tokyonight" alt="thiagocorreabotelho" /></p>
+<p>&nbsp;<img align="center"  width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreabotelho&theme=tokyonight" alt="thiagocorreabotelho" /></p>
 </div>
 
 
