@@ -2,8 +2,7 @@
 <h1 align="left">Olá 🤟🏻, Thiago Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
-Sou entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ).
-Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento de processos e documentações, implantações de software, bem como suporte interno e externo ). Liderando a equipe completa de desenvolvimento com C#, ASP.NET CORE, DDD, SQL Server e gerenciamento no devops.
+Sou entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ). Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento de processos e documentações, implantações de software, bem como suporte interno e externo ). Liderando a equipe completa de desenvolvimento com C#, ASP.NET CORE, DDD, SQL Server e gerenciamento no devops.
 
 <div>
  <p>&nbsp;<img align="center" width="420em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" /></p>
