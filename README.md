@@ -2,7 +2,7 @@
 <h1 align="left">Olá 🤟🏻, Thiago Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
-Profissional com 5 anos de experiência em TI ( 3 com suporte nível (1 e 2) e no desenvolvimento 2 anos. ), entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ).
+Sou entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ).
 Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento de processos e documentações, implantações de software, bem como suporte interno e externo ). Liderando a equipe completa de desenvolvimento com C#, ASP.NET CORE, DDD, SQL Server e gerenciamento no devops.
 
 <div>
