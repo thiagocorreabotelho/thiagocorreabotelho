@@ -36,7 +36,7 @@ Sou entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, at
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=thiagocorreadev&layout=wide&show_reply=off&show_retweet=off" />
 
-![Snake animation](https://github.com/thiagocorreabotelho/thiagocorreabotelho/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 
