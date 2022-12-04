@@ -1,8 +1,13 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thiagocorreabotelho/bf6f88bda139b65fe285d9871eecc908/raw/b5dedb3a8b78e6a05ef44062ba790c5219d385c4/cardperfil.svg"/>
-<h1 align="left">Olá 🤟🏻, Thiago Corrêa</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thiagocorreabotelho/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
+<h1 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
-Sou entusiasta e especialista em desenvolvimento ASP.NET CORE com SQL Server, atuando em projetos LSM ( Learning Management System ), CMS ( Content Managament System ). Coordeno projetos da área ( arquitetura, análise de negócios, desenvolvimento de processos e documentações, implantações de software, bem como suporte interno e externo ). Liderando a equipe completa de desenvolvimento com C#, ASP.NET CORE, DDD, SQL Server e gerenciamento no devops.
+Sou desenvolvedor de sistemas **database first**, possuo experiência com C#, ASP.NET CORE, HTML, CSS, JS, Bootstrap & SQL Server.
+Ao longo de minha jornada pude desenvolver sistemas LMS, CMS, E-commerce e intranet.
+Além da parte do desenvolvimento, posso destacar que possuo experiência na parte de metodologia ágeis como **SCRUM**.
+Hoje tenho domínio das ferramentas como **Azure DevOps** e **GitHub Project** para realizar uma gestão melhor do projeto e atividades atribuídas.
+
+
 
 <div>
  <p>&nbsp;<img align="center" width="420em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" /></p>
