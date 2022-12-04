@@ -27,7 +27,7 @@ Hoje tenho domínio das ferramentas como **Azure DevOps** e **GitHub Project** p
 ----
 
 <div>
- <p>&nbsp;<img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" />
+ <p><img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreabotelho&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreabotelho" />
 	<img align="center"  width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreabotelho&theme=tokyonight" alt="thiagocorreabotelho" /></p>
 </div>
 
