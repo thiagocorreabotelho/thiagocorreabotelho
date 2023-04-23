@@ -54,7 +54,7 @@ Hoje tenho domínio das ferramentas como **Azure DevOps** e **GitHub Project** p
   
 </p>
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=thiagocorrea&layout=wide&show_reply=off&show_retweet=off" />
+
 
 
 
