@@ -74,7 +74,7 @@ Projetos em destaque: [Portal Pedido Eletrônico](https://www.pedidoeletronico.c
 Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR`, `JAVASCRIPT`, `XAMARIN` \
 Projetos em destaque: Sistema de seguradora
 <br/>
-<br/>
+
 
 [<img align="left" height="94px" width="94px" alt="Out of the box" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/787fa0e4-b349-48e7-b5be-61c475c9b227"/>]([https://dnxsolucoes.com.br](https://dnxsolucoes.com.br)/)
 
