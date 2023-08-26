@@ -50,10 +50,20 @@ Além da programação em si, também tenho experiência em metodologias ágeis,
 
 ## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+![1571397691640]()
+
+
+[<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/30046e42-cd71-42b0-81cb-7d32633fee11"/>](https://www.funcao.com.br/)
+
+**Desenvolvedor .NET PLENO (ATUAL)** \
+[**Função Sistemas**](https://www.funcao.com.br) • Full-time \
+Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
+Projetos em destaque: Portal financeiros.
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/64191f34-1073-4cb0-98f8-c15cb9861527"/>](https://www.sinqia.com.br/)
 
-**Desenvolvedor .NET JR (ATUAL)** \
+**Desenvolvedor .NET JR** \
 [**Sinqia**](https://www.sinqia.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
 Projetos em destaque: Portal financeiros para benefios
