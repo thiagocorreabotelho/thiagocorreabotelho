@@ -50,7 +50,6 @@ Além da programação em si, também tenho experiência em metodologias ágeis,
 
 ## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-![1571397691640]()
 
 
 [<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/30046e42-cd71-42b0-81cb-7d32633fee11"/>](https://www.funcao.com.br/)
