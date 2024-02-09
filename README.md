@@ -60,6 +60,13 @@ Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `AN
 Projetos em destaque: Portal financeiros.
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/aefc157e-c4b9-449b-adc0-30847466818d"/>](https://www.rodoind.com.br/)
+**Desenvolvedor .NET PLENO (ATUAL - FREELANCER)** \
+[**Rodoind Transportes**](https://www.rodoind.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
+Projetos em destaque: Portal TMS para gerenciamento de transportes.
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/64191f34-1073-4cb0-98f8-c15cb9861527"/>](https://www.sinqia.com.br/)
 
 **Desenvolvedor .NET JR** \
