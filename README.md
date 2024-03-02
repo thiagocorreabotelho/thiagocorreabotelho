@@ -1,11 +1,14 @@
+
+
 <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/thiagocorreabotelho/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
-<h1 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
+<h3 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
 Sou um desenvolvedor de sistemas que trabalha com abordagem database-first. Possuo habilidades em diversas tecnologias, incluindo C#, ASP.NET CORE, HTML, CSS, JS, Bootstrap e SQL Server. Ao longo da minha carreira, tive a oportunidade de desenvolver sistemas LMS, CMS, E-commerce e intranet.
 
 Além da programação em si, também tenho experiência em metodologias ágeis, especialmente no SCRUM. Possuo conhecimentos em ferramentas de gestão de projetos, como Azure DevOps e GitHub Project, que me permitem gerenciar de forma eficiente as demandas e atividades atribuídas ao projeto.
 
+</br>
 </br>
 </br>
 </br>
