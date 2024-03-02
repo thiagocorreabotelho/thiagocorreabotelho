@@ -6,6 +6,12 @@ Sou um desenvolvedor de sistemas que trabalha com abordagem database-first. Poss
 
 Além da programação em si, também tenho experiência em metodologias ágeis, especialmente no SCRUM. Possuo conhecimentos em ferramentas de gestão de projetos, como Azure DevOps e GitHub Project, que me permitem gerenciar de forma eficiente as demandas e atividades atribuídas ao projeto.
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ----
 
 <p align='left'>
@@ -18,7 +24,6 @@ Além da programação em si, também tenho experiência em metodologias ágeis,
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
