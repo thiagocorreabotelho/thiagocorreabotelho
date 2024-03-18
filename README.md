@@ -93,9 +93,6 @@ Projetos em destaque: Sistema de seguradora
 <br/>
 
 
-
-[<img align="left" height="94px" width="94px" alt="Out of the box" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/787fa0e4-b349-48e7-b5be-61c475c9b227"/>]([https://dnxsolucoes.com.br](https://dnxsolucoes.com.br)/)
-
 **Desenvolvedor .NET JR** \
 [**Dnx Soluções**](https://dnxsoluoes.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `HTML`, `BOOTSTRAP`, `JAVASCRIPT`, `XAMARIN` \
@@ -103,8 +100,20 @@ Projetos em destaque: Sistemas em geral (Fabrica de software)
 <br/>
 <br/>
 
-![snake gif](https://github.com/thiagocorreabotelho/thiagocorreabotelho/blob/output/github-contribution-grid-snake.gif)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/thiagocorreabotelho/thiagocorreabotelho/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thiagocorreabotelho/thiagocorreabotelho/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/thiagocorreabotelho/thiagocorreabotelho/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!--
 
 
