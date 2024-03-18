@@ -103,7 +103,8 @@ Projetos em destaque: Sistemas em geral (Fabrica de software)
 <br/>
 <br/>
 
+![snake gif](https://github.com/thiagocorreabotelho/thiagocorreabotelho/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 
 
-![snake gif](https://github.com/thiagocorreabotelho/thiagocorreabotelho/blob/output/github-contribution-grid-snake.svg)
