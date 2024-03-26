@@ -87,9 +87,10 @@ Projetos em destaque: [Portal Pedido Eletrônico](https://www.pedidoeletronico.c
 [<img align="left" height="94px" width="94px" alt="Out of the box" src="https://github.com/thiagocorreabotelho/thiagocorreabotelho/assets/99252640/f475edf4-08a0-4d3a-8901-838f0f2e23e9"/>]([https://nubank.com.br](https://outoffthebox.tech)/)
 
 **Desenvolvedor .NET JR** \
-[**Out of the box**](https://outoffthebox.tech/) • Full-time \
-Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR`, `JAVASCRIPT`, `XAMARIN` \
-Projetos em destaque: Sistema de seguradora
+[**Dnx Soluções**](https://dnxsoluoes.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `HTML`, `BOOTSTRAP`, `JAVASCRIPT`, `XAMARIN` \
+Projetos em destaque: Sistemas em geral (Fabrica de software)
+<br/>
 <br/>
 
 
